@@ -8,6 +8,6 @@ def fizzbuzz(number)
     "Fizz"
   
 elsif number % 5 == 0
-    "buzz"
+    "Buzz"
   end
 end
